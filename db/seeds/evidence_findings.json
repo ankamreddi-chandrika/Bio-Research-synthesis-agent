@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "review_id": 1,
+    "paper_id": 1,
+    "population": "Patients with KRAS G12C-mutated advanced NSCLC previously treated with platinum doublet & immunotherapy",
+    "intervention": "Adagrasib (600 mg twice daily orally)",
+    "comparator": "Historical standard second-line docetaxel",
+    "outcome": "ORR 43%, Median PFS 6.5 months, Median OS 12.6 months",
+    "key_finding": "Confirmed clinical response in 43% of evaluable patients; secondary KRAS switch-II pocket alterations and MET bypass identified upon relapse.",
+    "confidence_score": 0.98,
+    "claim_grounding": "Among 112 evaluable patients, objective response occurred in 43% of patients, with median duration of response of 8.5 months and median progression-free survival of 6.5 months."
+  },
+  {
+    "id": 2,
+    "review_id": 1,
+    "paper_id": 2,
+    "population": "KRAS p.G12C-mutant non-small-cell lung cancer with prior systemic therapy",
+    "intervention": "Sotorasib (960 mg once daily orally)",
+    "comparator": "Placebo / Standard of Care",
+    "outcome": "Confirmed ORR 37.1%, Disease Control Rate 80.6%, Median OS 12.5 months",
+    "key_finding": "Significant anti-tumor activity and durable disease control; ctDNA profiling revealed polyclonal resistance mechanisms including KRAS Y96D and parallel EGFR/HER2 activations.",
+    "confidence_score": 0.97,
+    "claim_grounding": "In the CodeBreaK 100 registrational phase 2 trial, oral sotorasib (960 mg once daily) demonstrated confirmed objective response in 37.1% of patients with pretreated KRAS G12C-mutated NSCLC."
+  },
+  {
+    "id": 3,
+    "review_id": 1,
+    "paper_id": 3,
+    "population": "Preclinical in vitro & in vivo patient-derived xenograft models of KRAS G12C NSCLC",
+    "intervention": "Direct covalent KRAS G12C inhibitors alone or combined with SHP2/pan-ERBB inhibitors",
+    "comparator": "Vehicle control / Monotherapy",
+    "outcome": "Complete suppression of adaptive ERK rebound and prevention of emergent secondary mutations",
+    "key_finding": "Acquired resistance driven by secondary KRAS mutations (Y96C, R68S) and RTK/SHP2/SOS1 feedback loops.",
+    "confidence_score": 0.96,
+    "claim_grounding": "Resistance frequently arises via secondary KRAS mutations that impair drug binding (G12D, G12V, Y96C, R68S) or through upstream RTK activation (MET, HER2) and downstream SHP2/SOS1 feedback loops."
+  },
+  {
+    "id": 4,
+    "review_id": 2,
+    "paper_id": 5,
+    "population": "1,795 individuals with early Alzheimer's disease (MCI or mild dementia with confirmed amyloid pathology)",
+    "intervention": "Lecanemab (10 mg/kg biweekly IV)",
+    "comparator": "Placebo IV biweekly",
+    "outcome": "27% slowing of clinical decline on CDR-SB at 18 months (P<0.001)",
+    "key_finding": "Robust clearance of amyloid protofibrils and statistically significant preservation of cognitive and functional endpoints.",
+    "confidence_score": 0.99,
+    "claim_grounding": "Lecanemab reduced brain amyloid-beta burden on PET scans and led to a 27% slowing of clinical decline on the CDR-SB at 18 months compared to placebo (difference -0.45; P<0.001)."
+  },
+  {
+    "id": 5,
+    "review_id": 2,
+    "paper_id": 6,
+    "population": "1,736 early symptomatic Alzheimer's disease patients with low/medium and high tau burden",
+    "intervention": "Donanemab IV every 4 weeks",
+    "comparator": "Placebo IV every 4 weeks",
+    "outcome": "35.1% slowing of decline on iADRS at 76 weeks in low/medium tau; complete amyloid plaque clearance in 80%",
+    "key_finding": "High-rate plaque clearance allows finite-duration treatment completion; clinically meaningful slowing of disease progression.",
+    "confidence_score": 0.98,
+    "claim_grounding": "Donanemab significantly slowed clinical progression by 35.1% on the integrated Alzheimer Disease Rating Scale (iADRS) at 76 weeks in participants with early symptomatic Alzheimer disease."
+  },
+  {
+    "id": 6,
+    "review_id": 3,
+    "paper_id": 9,
+    "population": "2,539 adults with obesity (BMI >=30 or >=27 with weight-related comorbidity) without diabetes",
+    "intervention": "Tirzepatide (5 mg, 10 mg, or 15 mg once weekly)",
+    "comparator": "Placebo once weekly",
+    "outcome": "Mean weight reduction of -20.9% (-23.6 kg) with 15 mg dose at week 72",
+    "key_finding": "Dual GIP and GLP-1 agonism provides substantial, unprecedented weight loss and cardiometabolic improvements.",
+    "confidence_score": 0.98,
+    "claim_grounding": "Tirzepatide (dual GIP and GLP-1 receptor agonist) at 15 mg weekly yielded mean body weight reduction of -20.9% (-23.6 kg) compared to -3.1% in the placebo group."
+  },
+  {
+    "id": 7,
+    "review_id": 3,
+    "paper_id": 10,
+    "population": "17,604 patients >=45 years with preexisting cardiovascular disease and BMI >=27 without diabetes",
+    "intervention": "Semaglutide 2.4 mg subcutaneous once weekly",
+    "comparator": "Placebo subcutaneous once weekly",
+    "outcome": "20% reduction in Major Adverse Cardiovascular Events (MACE: CV death, nonfatal MI, nonfatal stroke) (HR 0.80, P<0.001)",
+    "key_finding": "First evidence that pharmacotherapy for obesity reduces cardiovascular death and events in non-diabetic populations.",
+    "confidence_score": 0.99,
+    "claim_grounding": "Once-weekly subcutaneous semaglutide 2.4 mg reduced the risk of primary composite endpoint (cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke) by 20% (HR 0.80, 95% CI 0.72-0.90, P<0.001)."
+  }
+]

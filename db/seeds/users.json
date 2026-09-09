@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Elena Rostova, MD, PhD",
+    "email": "e.rostova@biopharm-ai.org",
+    "role": "Principal Investigator & Lead Oncologist",
+    "department": "Translational Oncology R&D",
+    "avatar_url": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Marcus Chen, PhD",
+    "email": "m.chen@biopharm-ai.org",
+    "role": "Chief Pharmacologist",
+    "department": "Target Discovery & Chemogenomics",
+    "avatar_url": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Sophia Al-Mansoor, MD",
+    "email": "s.almansoor@biopharm-ai.org",
+    "role": "Clinical Trials Director",
+    "department": "Immunology & Cell Therapy",
+    "avatar_url": "https://images.unsplash.com/photo-1594824813594-81498b58a129?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Julian Vance, PhD",
+    "email": "j.vance@biopharm-ai.org",
+    "role": "Senior Bioinformatician",
+    "department": "Computational Biology & Genomics",
+    "avatar_url": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Ananya Sharma, MD",
+    "email": "a.sharma@biopharm-ai.org",
+    "role": "Precision Medicine Specialist",
+    "department": "Rare Diseases & Neurotherapeutics",
+    "avatar_url": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=150&auto=format&fit=crop&q=80"
+  }
+]

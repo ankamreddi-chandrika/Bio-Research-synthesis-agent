@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Autonomous Synthesis: Resistance Mechanisms to KRAS G12C Direct Inhibitors in NSCLC",
+    "query": "KRAS G12C inhibitor resistance mechanisms in NSCLC adagrasib sotorasib",
+    "user_id": 1,
+    "status": "completed",
+    "therapeutic_area": "Oncology",
+    "prisma_identified": 142,
+    "prisma_screened": 38,
+    "prisma_included": 3,
+    "hallucination_score": 0.01,
+    "confidence_score": 0.98,
+    "execution_time_sec": 2.85,
+    "summary_md": "### Executive Synthesis: KRAS G12C Inhibitor Resistance\n\nCovalent switch-II pocket inhibitors (Adagrasib [PMID:33827083] and Sotorasib [PMID:34033782]) demonstrate confirmed objective response rates of **37.1% to 43.0%** in pretreated KRAS G12C-mutant non-small-cell lung cancer (NSCLC).\n\n#### Key Resistance Pathways Identified:\n1. **On-Target Secondary Mutations**: Emergence of KRAS Y96D, Y96C, R68S, and switch-II binding pocket alterations preventing covalent electrophilic binding [PMID:35134789].\n2. **Off-Target Bypass Signaling**: Parallel receptor tyrosine kinase (RTK) amplifications including MET, EGFR, and HER2 [PMID:33827083].\n3. **Downstream Feedback Re-activation**: Rapid SOS1/SHP2-mediated GTP reloading of wild-type and mutated RAS alleles [PMID:35134789].\n\n#### Clinical Recommendation:\nCombination regimens coupling covalent KRAS G12C inhibitors with SHP2 inhibitors (e.g. TNO155) or pan-ERBB inhibitors are strongly recommended to circumvent adaptive feedback loops."
+  },
+  {
+    "id": 2,
+    "title": "Systematic Review: Anti-Amyloid Monoclonal Antibodies in Early Alzheimer's Disease",
+    "query": "Anti-amyloid monoclonal antibodies lecanemab donanemab early Alzheimer clinical trials CDR-SB",
+    "user_id": 3,
+    "status": "completed",
+    "therapeutic_area": "Neurology",
+    "prisma_identified": 218,
+    "prisma_screened": 45,
+    "prisma_included": 2,
+    "hallucination_score": 0.00,
+    "confidence_score": 0.99,
+    "execution_time_sec": 3.12,
+    "summary_md": "### Executive Synthesis: Disease-Modifying Amyloid Therapeutics\n\nPhase 3 randomized controlled trials of protofibril/plaque-targeting monoclonal antibodies (**Lecanemab** [PMID:36450123] and **Donanemab** [PMID:37464012]) provide conclusive Level 1b clinical evidence that robust amyloid plaque clearance slows cognitive and functional decline in early Alzheimer's disease.\n\n#### Comparative Efficacy & Safety:\n- **Lecanemab (Clarity AD)**: Slowed 18-month cognitive decline by 27% on CDR-SB (difference -0.45, P<0.001) with 12.6% ARIA-E incidence [PMID:36450123].\n- **Donanemab (TRAILBLAZER-ALZ 2)**: Slowed clinical decline by 35.1% on iADRS at 76 weeks in low/medium tau subgroups; achieved plaque clearance in 80% of patients [PMID:37464012].\n\n#### Safety Monitoring:\nRoutine baseline and serial MRI surveillance (weeks 5, 9, 14) is mandatory to monitor asymptomatic and symptomatic ARIA-E/ARIA-H, especially in APOE-epsilon4 homozygotes."
+  },
+  {
+    "id": 3,
+    "title": "Evidence Synthesis: Dual GIP/GLP-1 Receptor Agonism vs GLP-1 Mono-Agonism in Cardiometabolic Disease",
+    "query": "Tirzepatide semaglutide cardiovascular outcomes weight loss RCT",
+    "user_id": 2,
+    "status": "completed",
+    "therapeutic_area": "Cardiology",
+    "prisma_identified": 185,
+    "prisma_screened": 52,
+    "prisma_included": 2,
+    "hallucination_score": 0.01,
+    "confidence_score": 0.97,
+    "execution_time_sec": 2.40,
+    "summary_md": "### Executive Synthesis: Incretin Therapeutics & Cardiovascular Protection\n\nHigh-dose incretin receptor agonists represent a paradigm shift in obesity and cardiovascular disease management:\n\n1. **SURMOUNT-1 (Tirzepatide)**: Achieved unprecedented mean weight reduction of **-20.9%** (-23.6 kg) at 72 weeks with robust improvements in blood pressure and lipid profiles [PMID:36912389].\n2. **SELECT Trial (Semaglutide 2.4 mg)**: Established a **20% risk reduction in Major Adverse Cardiovascular Events (MACE)** (HR 0.80, P<0.001) in 17,604 patients with overweight/obesity and established CVD without diabetes [PMID:37590123]."
+  }
+]

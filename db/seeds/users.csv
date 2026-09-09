@@ -1,0 +1,6 @@
+id,name,email,role,department,avatar_url
+1,"Dr. Elena Rostova, MD, PhD",e.rostova@biopharm-ai.org,"Principal Investigator & Lead Oncologist","Translational Oncology R&D",https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=150&auto=format&fit=crop&q=80
+2,"Dr. Marcus Chen, PhD",m.chen@biopharm-ai.org,"Chief Pharmacologist","Target Discovery & Chemogenomics",https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=150&auto=format&fit=crop&q=80
+3,"Dr. Sophia Al-Mansoor, MD",s.almansoor@biopharm-ai.org,"Clinical Trials Director","Immunology & Cell Therapy",https://images.unsplash.com/photo-1594824813594-81498b58a129?w=150&auto=format&fit=crop&q=80
+4,"Dr. Julian Vance, PhD",j.vance@biopharm-ai.org,"Senior Bioinformatician","Computational Biology & Genomics",https://images.unsplash.com/photo-1537368910025-700350fe46c7?w=150&auto=format&fit=crop&q=80
+5,"Dr. Ananya Sharma, MD",a.sharma@biopharm-ai.org,"Precision Medicine Specialist","Rare Diseases & Neurotherapeutics",https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=150&auto=format&fit=crop&q=80
